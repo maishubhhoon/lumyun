@@ -17,7 +17,7 @@ export default function Footer() {
         </div>
 
         <a
-          href="https://www.instagram.com/maishubhhoon/?__pwa=1"
+          href="https://www.instagram.com/lumyun_official/?__pwa=1"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Instagram"
